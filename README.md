@@ -14,15 +14,15 @@ Video of the installation of this mod on the Twitch of RetroRedrum :
 
 Approximate cost for one RAM mod (costs can be considerably reduced if you build several modules) :
 
-IS61C1024AL-12TLI : 3.28 €
-SN74HCT573PWR : 0.58 €
-SN74LVC1G08DBVR : 0.36 €
-SN74LVC1G32DBVR : 0.38 €
-R1 & R2 : 0.10 €
-C1 & C2 : 0.84 €
-PCB (minimum 5 + Shipping) : 14.95€
-IC10 & IC11 (Headers 20 pin) : 2.49€
-Round Pinheader (10x 1x40) : 8.19€
+- IS61C1024AL-12TLI : 3.28 €
+- SN74HCT573PWR : 0.58 €
+- SN74LVC1G08DBVR : 0.36 €
+- SN74LVC1G32DBVR : 0.38 €
+- R1 & R2 : 0.10 €
+- C1 & C2 : 0.84 €
+- PCB (minimum 5 + Shipping) : 14.95€
+- IC10 & IC11 (Headers 20 pin) : 2.49€
+- Round Pinheader (10x 1x40) : 8.19€
 
 Total : 31,32€
 
