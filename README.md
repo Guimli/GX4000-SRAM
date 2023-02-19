@@ -26,6 +26,8 @@ Approximate cost for one RAM mod (costs can be considerably reduced if you build
 
 Total : 31,32€
 
+I can sell you modules already assembled. But the shipping costs from France are prohibitive...
+
 To enable the 128K mod, add a 10 kΩ resistor between pins 8 and 11 of IC8 (74HC4051).
 ![Photo-04](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-04.jpg)
 And connect pin 91 of the ASIC to the dedicated CAS1 slot on the mod.
