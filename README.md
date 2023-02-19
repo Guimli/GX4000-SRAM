@@ -1,11 +1,11 @@
 # GX4000-SRAM
 
-![Image01](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-01.jpg)
+![Photo-01](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-01.jpg)
 
 RAM replacement mod for GX4000 based on modern RAM. This mod can be used to replace the original RAM of the GX4000. And it is also possible to expand the GX4000's RAM to 128K.
 
-![Image01](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/GX4000-SRAM-128K-v2.1-Top.jpg)
-![Image01](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/GX4000-SRAM-128K-v2.1-Bottom.jpg)
+![Top](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/GX4000-SRAM-128K-v2.1-Top.jpg)
+![Bottom](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/GX4000-SRAM-128K-v2.1-Bottom.jpg)
 
 This mod is inspired by the SRAM for C64 on https://github.com/jamarju/c64-sram
 
@@ -27,8 +27,8 @@ Approximate cost for one RAM mod (costs can be considerably reduced if you build
 Total : 31,32€
 
 To enable the 128K mod, add a 10 kΩ resistor between pins 8 and 11 of IC8 (74HC4051).
-![Image01](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-04.jpg)
+![Photo-04](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-04.jpg)
 And connect pin 91 of the ASIC to the dedicated CAS1 slot on the mod.
-![Image01](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-02.jpg)
-![Image01](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-03.jpg)
+![Photo-02](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-02.jpg)
+![Photo-03](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-03.jpg)
 (See https://www.cpcwiki.eu/index.php/128k_on_GX-4000 for more information)
