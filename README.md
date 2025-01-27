@@ -34,3 +34,14 @@ And connect pin 91 of the ASIC to the dedicated CAS1 slot on the mod.
 ![Photo-02](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-02.jpg)
 ![Photo-03](https://github.com/Guimli/GX4000-SRAM/raw/main/Images/Photo-03.jpg)
 (See https://www.cpcwiki.eu/index.php/128k_on_GX-4000 for more information)
+
+## BOM
+| Quantity | Description | Part Number | Mouser | Notes |
+|:--------:|:------------|-------------|---------|-------|
+| 1        | SRAM 1Mbit pin 32 TSOP I-32 | IS61C1024AL-12HLI | [870-61C1024AL-12HLI](https://www.mouser.fr/ProductDetail/ISSI/IS61C1024AL-12HLI?qs=NHlAyh8rbXxX6sVqjKW4FQ%3D%3D) | |
+| 1        | 74HCT573 pin 20 TSSOP | SN74HCT573PWR | [595-SN74HCT573PWR](https://www.mouser.fr/ProductDetail/Texas-Instruments/SN74HCT573PWR?qs=CCO124VRWrmt55RoEPLmzg%3D%3D) | |
+| 1        | 74LVC1G32 pin 5 SOT-23-5 | SN74LVC1G32DBVR  | [595-SN74LVC1G32DBVR](https://www.mouser.fr/ProductDetail/Texas-Instruments/SN74LVC1G32DBVR?qs=3pnr37ZAbK%2F6ArGi%2FPb2Ng%3D%3D) | |
+| 1        | 74LVC1G08 pin 5 SOT-23-5 | SN74LVC1G08DBVR  | [595-SN74LVC1G08DBVR](https://www.mouser.fr/ProductDetail/Texas-Instruments/SN74LVC1G08DBVR?qs=8yeEWhuAOtNjtL049wSCoQ%3D%3D) | |
+| 2        | 100nf / 0.1uf Ceramic Capacitor 0805 Size | C0805C104K5RAC7411 | [80-C0805C104K5RACLR](https://www.mouser.fr/ProductDetail/KEMET/C0805C104K5RAC7411?qs=sGAEpiMZZMvsSlwiRhF8qqQ8hxcT1iMuvRkk9zDM%252BLQ%3D) | Any 100nf 0805 is fine |
+| 1        | 47K Ohm resistor 0805 Size | CR0805-JW-473ELF  | [652-CR0805JW-473ELF](https://www.mouser.fr/ProductDetail/Bourns/CR0805-JW-473ELF?qs=sGAEpiMZZMvdGkrng054t%252BRNGJdg958R0YzgB9JoA2g%3D) | Any 47KΩ 0805 resistor is fine |
+| 1        | 33 Ohm resistor 0805 Size | CR0805-JW-330ELF | [652-CR0805JW-330ELF ](https://www.mouser.fr/ProductDetail/Bourns/CR0805-JW-330ELF?qs=sGAEpiMZZMvdGkrng054t%252BRNGJdg958RR%252BUoE30LIPU%3D) | Any 33Ω 0805 resistor is fine |

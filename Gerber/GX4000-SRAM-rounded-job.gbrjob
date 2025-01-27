@@ -3,13 +3,13 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.99.0-4380-g9b6f7d5db7)"
+      "Version": "8.0.8"
     },
-    "CreationDate": "2023-01-24T18:27:43+01:00"
+    "CreationDate": "2025-01-27T20:38:42+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "GX4000-SRAM-rounded-Kicad7",
+      "Name": "GX4000-SRAM-rounded",
       "GUID": "47583430-3030-42d5-9352-414d2d726f75",
       "Revision": "rev?"
     },
@@ -43,57 +43,57 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-F_Cu.gbr",
+      "Path": "GX4000-SRAM-rounded-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-In1_Cu.gbr",
+      "Path": "GX4000-SRAM-rounded-In1_Cu.gbr",
       "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-In2_Cu.gbr",
+      "Path": "GX4000-SRAM-rounded-In2_Cu.gbr",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-B_Cu.gbr",
+      "Path": "GX4000-SRAM-rounded-B_Cu.gbr",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-F_Paste.gbr",
+      "Path": "GX4000-SRAM-rounded-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-B_Paste.gbr",
+      "Path": "GX4000-SRAM-rounded-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-F_Silkscreen.gbr",
+      "Path": "GX4000-SRAM-rounded-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-B_Silkscreen.gbr",
+      "Path": "GX4000-SRAM-rounded-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-F_Mask.gbr",
+      "Path": "GX4000-SRAM-rounded-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-B_Mask.gbr",
+      "Path": "GX4000-SRAM-rounded-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "GX4000-SRAM-rounded-Kicad7-Edge_Cuts.gbr",
+      "Path": "GX4000-SRAM-rounded-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
