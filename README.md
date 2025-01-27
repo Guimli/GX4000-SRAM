@@ -14,7 +14,7 @@ Video of the installation of this mod on the Twitch of RetroRedrum :
 
 Approximate cost for one RAM mod (costs can be considerably reduced if you build several modules) :
 
-- IS61C1024AL-12TLI : 3.28 €
+- IS61C1024AL-12HLI : 3.28 €
 - SN74HCT573PWR : 0.58 €
 - SN74LVC1G08DBVR : 0.36 €
 - SN74LVC1G32DBVR : 0.38 €
